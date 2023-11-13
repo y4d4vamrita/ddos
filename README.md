@@ -80,7 +80,7 @@
 
 ## Installation :
 
-`git clone https://github.com/the-deepnet/ddos.git`
+`git clone https://github.com/the-amrita/ddos.git`
 
 `cd ddos`
 
